@@ -18,3 +18,7 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_gauguin.mk
+     
+COMMON_LUNCH_CHOICES := \
+     omni_gauguin-userdebug \
+     omni_gauguin-eng
