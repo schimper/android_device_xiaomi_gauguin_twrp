@@ -69,7 +69,7 @@ BOARD_KERNEL_IMAGE_NAME := Image.gz
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/xiaomi/gauguin
-TARGET_KERNEL_CONFIG := gauguin_defconfig
+TARGET_KERNEL_CONFIG := gauguin_user_defconfig
 
 # Platform
 TARGET_BOARD_PLATFORM := lito
